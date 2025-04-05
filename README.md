@@ -25,28 +25,6 @@ A sleek movie search and favorites app using ReactJS, TMDB API, and localStorage
 ## 📸 Screenshots
 ![Home screenshot](./src/screenshots/home%20screenshot.png)
 
-
-## 📁 Folder Structure
-src/
-├── components/
-│   ├── MovieCard.jsx
-│   └── NavBar.jsx
-├── contexts/
-│   └── MovieContext.jsx
-├── pages/
-│   ├── Home.jsx
-│   └── Favorites.jsx
-├── services/
-│   └── api.js
-├── css/
-│   ├── App.css
-│   ├── Home.css
-│   ├── Navbar.css
-│   ├── Favorites.css
-│   └── MovieCard.css
-├── App.jsx
-├── main.jsx
-
 ##  Getting Started
 Clone this repo and run it locally:
 ```bash
