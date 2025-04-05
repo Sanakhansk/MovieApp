@@ -23,7 +23,7 @@ A sleek movie search and favorites app using ReactJS, TMDB API, and localStorage
 3. Favorites are stored in `localStorage` so they persist across sessions.
 
 ## 📸 Screenshots
-![Home screenshot](./src/screenshots/home.png)
+![Home screenshot](./src/screenshots/home screenshot.png)
 
 
 ## 📁 Folder Structure
