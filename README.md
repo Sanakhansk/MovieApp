@@ -33,9 +33,10 @@ cd movie-app
 npm install
 npm run dev
 ```
-##Future Plan
--🌗 Dark/Light mode toggle (coming soon!)
--🎭 Filter by genre, rating, release year
+## Future Plan
+- Dark and light mode toggle
+- Filter by genre, rating and release date
+
 
 
 
