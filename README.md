@@ -34,8 +34,8 @@ npm install
 npm run dev
 ```
 ##Future Plan
-🌗 Dark/Light mode toggle (coming soon!)
-🎭 Filter by genre, rating, release year
+-🌗 Dark/Light mode toggle (coming soon!)
+-🎭 Filter by genre, rating, release year
 
 
 
